@@ -1,0 +1,3 @@
+https://www.slimframework.com/docs/cookbook/enable-cors.html
+
+http://valor-software.com/ng2-file-upload/
